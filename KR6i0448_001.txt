@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:49.618728
+#+DATE: 2015-08-30 20:19:50.010837
 #+TITLE: 佛說五無返復經
 #+PROPERTY: CBETA_ID T17n0752
 #+PROPERTY: ID KR6i0448
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 752
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0448_T_000-0574b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0448_T_001-0574b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.752¶
-
- 《佛說五無返復經》¶
+No. 752¶
+《佛說五無返復經》¶
 ¶
 宋居士沮渠京聲譯¶
 
